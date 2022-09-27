@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+  font-size: 24px;
+}
+h1 {
+  color: rgb(43, 5, 211);
+}
+h2 {
+  color: rgb(43, 5, 211);
+}
+.main {
+  background-color: #f0f0f0;
+  padding: 0 2%;
+  padding-bottom: 2%;
+}
+.main button {
+  background-color: rgb(250, 160, 227);
+}
+

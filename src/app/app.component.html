@@ -1,0 +1,7 @@
+<div class="main">
+  <app-header></app-header>
+  <button type="button" (click)="getWeather(lat, lon)">Get</button>
+  <app-content></app-content>
+  <pre>{{ infos | json }}</pre>
+</div>
+
